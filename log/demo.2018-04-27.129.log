@@ -1,0 +1,11 @@
+2018-04-27 09:50:29,869 INFO (HbaseFactory.java:88)- 插入数据完成
+2018-04-27 09:50:30,571 INFO (VegenetSpiderTask.java:49)- http://www.vegnet.com.cn/Price/List?marketID=369&year=2016&month=4&day=20
+2018-04-27 09:50:31,514 INFO (HbaseFactory.java:88)- 插入数据完成
+2018-04-27 09:50:37,196 INFO (VegenetSpiderTask.java:49)- http://www.vegnet.com.cn/Price/List?marketID=369&year=2016&month=4&day=16
+2018-04-27 09:50:37,385 INFO (HbaseFactory.java:88)- 插入数据完成
+2018-04-27 09:50:37,871 INFO (VegenetSpiderTask.java:49)- http://www.vegnet.com.cn/Price/List?marketID=369&year=2016&month=4&day=15
+2018-04-27 09:50:38,958 INFO (HbaseFactory.java:88)- 插入数据完成
+2018-04-27 09:50:39,621 INFO (VegenetSpiderTask.java:49)- http://www.vegnet.com.cn/Price/List?marketID=369&year=2016&month=4&day=13
+2018-04-27 09:50:40,230 INFO (HbaseFactory.java:88)- 插入数据完成
+2018-04-27 09:53:49,868 INFO (StartupInfoLogger.java:50)- Starting App on matthew-PC with PID 9608 (E:\baidu\spring-boot-examples-master\spring-boot-examples-master\spring-boot-hello\target\classes started by matthew in E:\baidu\spring-boot-examples-master\spring-boot-examples-master\spring-boot-hello)
+2018-04-27 09:53:49,884 INFO (SpringApplication.java:652)- No active profile set, falling back to default profiles: default

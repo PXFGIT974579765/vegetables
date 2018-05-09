@@ -1,0 +1,7 @@
+2018-04-27 09:38:57,703 INFO (StartupInfoLogger.java:50)- Starting App on matthew-PC with PID 8516 (E:\baidu\spring-boot-examples-master\spring-boot-examples-master\spring-boot-hello\target\classes started by matthew in E:\baidu\spring-boot-examples-master\spring-boot-examples-master\spring-boot-hello)
+2018-04-27 09:38:57,706 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2018-04-27 09:38:57,707 INFO (SpringApplication.java:652)- No active profile set, falling back to default profiles: default
+2018-04-27 09:39:03,720 INFO (StartupInfoLogger.java:59)- Started App in 6.95 seconds (JVM running for 10.989)
+2018-04-27 09:40:43,545 INFO (StartupInfoLogger.java:50)- Starting App on matthew-PC with PID 2496 (E:\baidu\spring-boot-examples-master\spring-boot-examples-master\spring-boot-hello\target\classes started by matthew in E:\baidu\spring-boot-examples-master\spring-boot-examples-master\spring-boot-hello)
+2018-04-27 09:40:43,548 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+2018-04-27 09:40:43,550 INFO (SpringApplication.java:652)- No active profile set, falling back to default profiles: default

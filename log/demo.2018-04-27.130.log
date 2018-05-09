@@ -1,0 +1,8 @@
+2018-04-27 09:53:53,674 INFO (StartupInfoLogger.java:59)- Started App in 4.258 seconds (JVM running for 5.721)
+2018-04-27 09:55:18,868 INFO (StartupInfoLogger.java:50)- Starting App on matthew-PC with PID 8760 (E:\baidu\spring-boot-examples-master\spring-boot-examples-master\spring-boot-hello\target\classes started by matthew in E:\baidu\spring-boot-examples-master\spring-boot-examples-master\spring-boot-hello)
+2018-04-27 09:55:18,868 INFO (SpringApplication.java:652)- No active profile set, falling back to default profiles: default
+2018-04-27 09:55:22,594 INFO (StartupInfoLogger.java:59)- Started App in 4.184 seconds (JVM running for 5.754)
+2018-04-27 09:55:45,152 INFO (VegenetSpiderTask.java:49)- http://www.vegnet.com.cn/Price/List?marketID=495&year=2018&month=4&day=26
+2018-04-27 09:55:47,277 INFO (HbaseFactory.java:88)- 插入数据完成
+2018-04-27 09:55:47,829 INFO (VegenetSpiderTask.java:49)- http://www.vegnet.com.cn/Price/List?marketID=495&year=2018&month=4&day=25
+2018-04-27 09:55:48,486 INFO (HbaseFactory.java:88)- 插入数据完成

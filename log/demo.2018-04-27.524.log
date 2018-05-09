@@ -1,0 +1,12 @@
+2018-04-27 10:51:09,567 INFO (HbaseFactory.java:88)- 插入数据完成
+2018-04-27 10:51:10,503 INFO (HbaseFactory.java:88)- 插入数据完成
+2018-04-27 10:51:10,743 INFO (VegenetSpiderTask.java:49)- http://www.vegnet.com.cn/Price/List?marketID=497&year=2017&month=1&day=16
+2018-04-27 10:51:11,650 INFO (HbaseFactory.java:88)- 插入数据完成
+2018-04-27 10:51:11,779 INFO (VegenetSpiderTask.java:49)- http://www.vegnet.com.cn/Price/List?marketID=495&year=2016&month=12&day=3
+2018-04-27 10:51:12,441 INFO (HbaseFactory.java:88)- 插入数据完成
+2018-04-27 10:51:12,795 INFO (VegenetSpiderTask.java:49)- http://www.vegnet.com.cn/Price/List?marketID=497&year=2017&month=1&day=13
+2018-04-27 10:51:13,598 INFO (VegenetSpiderTask.java:49)- http://www.vegnet.com.cn/Price/List?marketID=495&year=2016&month=12&day=2
+2018-04-27 10:51:13,678 INFO (HbaseFactory.java:88)- 插入数据完成
+2018-04-27 10:51:13,743 INFO (HbaseFactory.java:88)- 插入数据完成
+2018-04-27 10:51:14,905 INFO (VegenetSpiderTask.java:49)- http://www.vegnet.com.cn/Price/List?marketID=497&year=2017&month=1&day=12
+2018-04-27 10:51:15,078 INFO (VegenetSpiderTask.java:49)- http://www.vegnet.com.cn/Price/List?marketID=495&year=2016&month=12&day=1

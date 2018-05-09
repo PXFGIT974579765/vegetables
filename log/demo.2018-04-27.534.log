@@ -1,0 +1,10 @@
+2018-04-27 11:04:51,508 INFO (StartupInfoLogger.java:59)- Started App in 4.327 seconds (JVM running for 5.827)
+2018-04-27 11:05:25,338 INFO (VegenetSpiderTask.java:49)- http://www.vegnet.com.cn/Price/List?marketID=497&year=2018&month=4&day=26
+2018-04-27 11:05:27,633 INFO (HbaseFactory.java:88)- 插入数据完成
+2018-04-27 11:05:28,354 INFO (VegenetSpiderTask.java:49)- http://www.vegnet.com.cn/Price/List?marketID=497&year=2018&month=4&day=25
+2018-04-27 11:05:29,283 INFO (HbaseFactory.java:88)- 插入数据完成
+2018-04-27 11:05:29,811 INFO (VegenetSpiderTask.java:49)- http://www.vegnet.com.cn/Price/List?marketID=497&year=2018&month=4&day=24
+2018-04-27 11:05:30,780 INFO (HbaseFactory.java:88)- 插入数据完成
+2018-04-27 11:05:32,285 INFO (VegenetSpiderTask.java:49)- http://www.vegnet.com.cn/Price/List?marketID=497&year=2018&month=4&day=22
+2018-04-27 11:05:33,302 INFO (HbaseFactory.java:88)- 插入数据完成
+2018-04-27 11:05:33,950 INFO (VegenetSpiderTask.java:49)- http://www.vegnet.com.cn/Price/List?marketID=497&year=2018&month=4&day=21

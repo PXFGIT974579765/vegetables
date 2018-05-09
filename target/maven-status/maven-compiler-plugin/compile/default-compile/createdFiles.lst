@@ -1,0 +1,17 @@
+com\bigdata\entity\Vegetables.class
+com\bigdata\task\WeatherSchedule.class
+com\bigdata\entity\AreaUrl.class
+com\bigdata\SpringbootConfig.class
+com\bigdata\task\WeatherSpiderTask.class
+com\bigdata\controller\RongJiaController.class
+com\bigdata\task\VegenetSpiderTask.class
+com\bigdata\controller\VegnetController.class
+com\bigdata\factory\DriverFactory.class
+com\bigdata\task\VegenetSchedule.class
+com\bigdata\factory\HbaseFactory.class
+com\bigdata\controller\HbaseDemo.class
+com\bigdata\util\Util.class
+com\bigdata\controller\WeatherController.class
+com\bigdata\App.class
+com\bigdata\util\ChangeToPinYin.class
+com\bigdata\entity\Weather.class
